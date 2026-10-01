@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "title": "Outline the six-module study guide and exam strategy",
+      "status": "done"
+    },
+    {
+      "title": "Write concise beginner-friendly notes and key comparisons",
+      "status": "done"
+    },
+    {
+      "title": "Add important questions, practice problems, and one-month plan",
+      "status": "done"
+    },
+    {
+      "title": "Add a practical CLI command reference for Linux, Git, development and Windows",
+      "status": "done"
+    },
+    {
+      "title": "Review the guide for syllabus coverage and clarity",
+      "status": "done"
+    }
+  ],
+  "updated_at": "2026-10-01T09:40:19.670Z",
+  "session_id": "01a0f6ce-77a4-75e2-b15c-c420c38a32db"
+}
